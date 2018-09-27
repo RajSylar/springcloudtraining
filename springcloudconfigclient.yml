@@ -1,4 +1,4 @@
 test:
-  message: loto
+  message: toto
 server:
   port: 2233
