@@ -1,5 +1,5 @@
 test:
-  message: CCCCC
+  message: friends
   
 server:
   port: 1122
